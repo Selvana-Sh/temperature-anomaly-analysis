@@ -7,6 +7,7 @@ This repository contains a Jupyter Notebook that visualizes global temperature a
 
 ## Usage
 Run the notebook in Jupyter to generate the plot.
+Alternatively, paste the repository link into https://nbviewer.org/ website.
 
 ## Preview
 ![Temperature Anomaly Plot](temperature_anomaly_plot.png)
